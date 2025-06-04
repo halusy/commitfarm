@@ -1,0 +1,2 @@
+30 19 * * * /path/to/CommitFarm/run_commitfarm.sh >> /path/to/CommitFarm/logs/commitfarm.log 2>&1
+
